@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["andrea longhi"]
   s.email       = ["andrea@spaghetticode.it"]
   s.homepage    = ""
-  s.summary     = %q{add callbacks to actionmailer 2.3.11}
-  s.description = %q{add callbacks to actionmailer 2.3.11}
+  s.summary     = %q{add callbacks to actionmailer 2.3.8}
+  s.description = %q{add callbacks to actionmailer 2.3.8}
 
   # s.rubyforge_project = 'actionmailer-callbacks'
 
@@ -21,6 +21,6 @@ Gem::Specification.new do |s|
   # specify any dependencies here; for example:
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'rake'
-  s.add_runtime_dependency 'activesupport', '~> 2.3.11'
-  s.add_runtime_dependency 'actionmailer',  '~> 2.3.11'
+  s.add_runtime_dependency 'activesupport', '~> 2.3.8'
+  s.add_runtime_dependency 'actionmailer',  '~> 2.3.8'
 end
